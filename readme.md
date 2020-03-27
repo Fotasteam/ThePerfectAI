@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the Find it! project.
 
-You can use the [editor on GitHub](https://github.com/Fotasteam/ThePerfectAI/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+It's a program made to search videos, games and books and display information about them. It collects data from this github or you can also collect data from your own computer.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
